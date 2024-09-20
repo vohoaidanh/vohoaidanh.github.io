@@ -16,8 +16,8 @@
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+url: "https://vohoaidanh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: vohoaidanh/vohoaidanh.github.io # for github-metadata
 
 permalink: pretty
 
@@ -55,6 +55,7 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+  - docs/_drafts/
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"

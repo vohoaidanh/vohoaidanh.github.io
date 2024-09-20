@@ -1,3 +1,4 @@
+<!--
 ---
 title: CHANGELOG
 layout: default
@@ -1842,3 +1843,4 @@ Major updates:
 
 Minor updates:
 - Cleans up h1 typography spacing
+-->
