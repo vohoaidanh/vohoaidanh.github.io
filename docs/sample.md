@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Sample Post"
+---
+
+## Introduction
+
+Welcome to this sample post! Here, we will explore the basic structure of a Jekyll blog post.
+
+## Content
+
+In this section, you can write your main content. You can include:
+
+- **Bold Text**
+- _Italic Text_
+- [Links to other pages](https://example.com)
+
+### Subsection
+
+You can also create subsections to organize your content better.
+
+## Conclusion
+
+Thank you for reading this sample post! Feel free to modify it and create your own content.
