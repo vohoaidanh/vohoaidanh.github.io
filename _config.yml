@@ -34,7 +34,10 @@ collections:
     output: true
     permalink: /docs/:path/
     nav_exclude: false
-
+  pages:
+    output: true
+    permalink: /pages/:path/
+    
 exclude:
   # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
   - .sass-cache/
