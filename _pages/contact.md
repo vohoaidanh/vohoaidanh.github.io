@@ -2,6 +2,7 @@
 title: "Contact Me"
 layout: default
 nav_enabled: true
+permalink: /contact/
 
 ---
 
